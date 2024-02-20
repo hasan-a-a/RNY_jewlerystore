@@ -6,6 +6,11 @@ body {
 
 header {
     background-color: #ccc;
+    background-image: url(/assets/pic/bg6.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 500px;
     padding: 20px;
 }
 
