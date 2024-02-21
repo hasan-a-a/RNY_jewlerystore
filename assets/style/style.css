@@ -51,9 +51,9 @@ body {
   
   /*header section*/
   .hero_area {
-    height: 100vh;
+    height: 500PX;
     position: relative;
-    background-image: url(../images/hero-bg.png);
+    background-image: url(/assets/pic/bg6.jpg);
     background-size: cover;
     background-position: bottom right;
     background-repeat: no-repeat;
