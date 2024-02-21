@@ -14,8 +14,10 @@ header {
     padding: 20px;
 }
 
-h1 {
-    text-align: center;
+.logo {
+    float: left;
+    width: 18%;
+    font-weight: bolder;
 }
 
 nav ul {
